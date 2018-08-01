@@ -1,9 +1,13 @@
+html {
+  align-content: center;
+}
+
 body {
   font-family: Helvetica;
 }
 
 .header {
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url(images/the-flatiron-building.png);
   color: white;
   font-weight: bold;
 }
