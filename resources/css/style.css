@@ -4,7 +4,7 @@ html {
 }
 
 .header {
-  background-image: url(/resources/images/the-flatiron-building.png);
+  background-image: url(https://beckyphan.github.io/broadway/resources/images/the-flatiron-building.png);
   color: white;
   font-weight: bold;
 }
